@@ -2,4 +2,5 @@ This is an added line for testing purposses!
 
 After adding this, we are doing a commit to github to check is the push OK!
 
+New changes for the new branch.
  
